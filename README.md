@@ -1,2 +1,2 @@
 # smart-closet
-An outfit planning agent that takes account of weather, social occasions and personal preferences.
+This repo is designated for my capstone project submission of the [5 days AI Agent Intensive Course with Google](https://www.kaggle.com/learn-guide/5-day-agents).
