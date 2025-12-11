@@ -14,6 +14,6 @@ This repo is designated for my capstone project submission of the [5 days AI Age
 ==TO DO==
 
 ## Architecture
-![ ](./media/smart closet and manager.png)
+![](media/smart closet and manager.png)
 
 
