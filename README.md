@@ -14,7 +14,7 @@ This repo is designated for my capstone project submission of the [5 days AI Age
 ==TO DO==
 
 ## Architecture
-![](ar.png)
+![](media/ar.png)
 
 
 
